@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alexandretyzh.github.io/static/css/main.5eab60db.css",
+    "main.js": "/alexandretyzh.github.io/static/js/main.5290b388.js",
+    "static/media/leroyMerlin.png": "/alexandretyzh.github.io/static/media/leroyMerlin.08b95884123d674b4e9c.png",
+    "static/media/margres.png": "/alexandretyzh.github.io/static/media/margres.9604946867b92a3bb685.png",
+    "index.html": "/alexandretyzh.github.io/index.html",
+    "main.5eab60db.css.map": "/alexandretyzh.github.io/static/css/main.5eab60db.css.map",
+    "main.5290b388.js.map": "/alexandretyzh.github.io/static/js/main.5290b388.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eab60db.css",
+    "static/js/main.5290b388.js"
+  ]
+}
