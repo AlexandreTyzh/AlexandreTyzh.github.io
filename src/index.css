@@ -1,0 +1,22 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  --escuro: #242424;
+  --sombra:#505050;
+  --claro: #f0f0f0;
+  --verde-tras: #035010;
+  --verde-claro: #78BE20;
+  --verde1: #62BB46;
+  --verde2: #006902;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: var(--verde1);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
